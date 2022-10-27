@@ -9,7 +9,7 @@ export default function Designs() {
   return (
     <div className='dark:bg-gray-900 text-white'>
     <div>
-    <h3 className='text-3xl py-2 text-center text-black'>Create Custom Website As per Your Requirement</h3>
+    <h3 className='text-3xl py-2 text-center text-black dark:text-white'>Create Custom Website As per Your Requirement</h3>
     <p className='text-md xl py-2 leading-8 text-teal-500 text-center'>Here some Custom Design Website for Reference</p>
   </div>
     <div className="lg:flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
