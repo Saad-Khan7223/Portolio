@@ -10,18 +10,18 @@ export default function Project() {
             Creating elegant Websites suited for your needs following core
             design theory.
             </p>
-            <h4 className='py-4 text-2xl text-teal-600'>Expertise</h4>
+            <h4 className='py-4 text-2xl text-teal-600 font-semibold'>Expertise</h4>
             <ul className= 'grid xsm:grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-10 sm:grid-cols-2 ml-10 mr-10'>
-            <li className='text-black py1 font-extrabold dark:text-white'>Html</li>
-            <li className='text-black py1 font-extrabold dark:text-white '>CSS</li>
-            <li className='text-black py1 font-extrabold dark:text-white'>JavaScript</li>
-            <li className='text-black py1 font-extrabold dark:text-white'>ES6</li>
-            <li className='text-black py1 font-extrabold dark:text-white'>React</li>
-            <li className='text-black py1 font-extrabold dark:text-white'>Nodejs</li>
-            <li className='text-black py1 font-extrabold dark:text-white'>Express</li>
-            <li className='text-black py1 font-extrabold  dark:text-white'>Mongodb</li>
-            <li className='text-black py1 font-extrabold dark:text-white'>SQL</li>
-            <li className='text-black py1 font-extrabold dark:text-white'>C++</li>
+            <li className='text-black py1 font-semibold dark:text-white'>Html</li>
+            <li className='text-black py1 font-semibold dark:text-white '>CSS</li>
+            <li className='text-black py1 font-semibold dark:text-white'>JavaScript</li>
+            <li className='text-black py1 font-semibold dark:text-white'>ES6</li>
+            <li className='text-black py1 font-semibold dark:text-white'>React</li>
+            <li className='text-black py1 font-semibold dark:text-white'>Nodejs</li>
+            <li className='text-black py1 font-semibold dark:text-white'>Express</li>
+            <li className='text-black py1 font-semibold  dark:text-white'>Mongodb</li>
+            <li className='text-black py1 font-semibold dark:text-white'>SQL</li>
+            <li className='text-black py1 font-semibold dark:text-white'>C++</li>
             </ul>
     </div>
    
