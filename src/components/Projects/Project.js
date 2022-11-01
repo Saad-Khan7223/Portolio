@@ -11,7 +11,7 @@ export default function Project() {
             design theory.
             </p>
             <h4 className='py-4 text-2xl text-teal-600'>Expertise</h4>
-            <ul className= 'grid xsm:grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-12 sm:grid-cols-2 ml-10 mr-10'>
+            <ul className= 'grid xsm:grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-10 sm:grid-cols-2 ml-10 mr-10'>
             <li className='text-black py1 font-extrabold dark:text-white'>Html</li>
             <li className='text-black py1 font-extrabold dark:text-white '>CSS</li>
             <li className='text-black py1 font-extrabold dark:text-white'>JavaScript</li>
