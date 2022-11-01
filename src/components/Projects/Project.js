@@ -11,16 +11,18 @@ export default function Project() {
             design theory.
             </p>
             <h4 className='py-4 text-2xl text-teal-600'>Expertise</h4>
-            <p className='text-black py1 dark:text-white'>Html</p>
-            <p className='text-black py1 dark:text-white'>CSS</p>
-            <p className='text-black py1 dark:text-white'>JavaScript</p>
-            <p className='text-black py1 dark:text-white'>ES6</p>
-            <p className='text-black py1 dark:text-white'>React</p>
-            <p className='text-black py1 dark:text-white'>Nodejs</p>
-            <p className='text-black py1 dark:text-white'>Express</p>
-            <p className='text-black py1 dark:text-white'>Mongodb</p>
-            <p className='text-black py1 dark:text-white'>SQL</p>
-            <p className='text-black py1 dark:text-white'>C++</p>
+            <ul className= 'grid xsm:grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-12 sm:grid-cols-2 ml-10 mr-10'>
+            <li className='text-black py1 font-extrabold dark:text-white'>Html</li>
+            <li className='text-black py1 font-extrabold dark:text-white '>CSS</li>
+            <li className='text-black py1 font-extrabold dark:text-white'>JavaScript</li>
+            <li className='text-black py1 font-extrabold dark:text-white'>ES6</li>
+            <li className='text-black py1 font-extrabold dark:text-white'>React</li>
+            <li className='text-black py1 font-extrabold dark:text-white'>Nodejs</li>
+            <li className='text-black py1 font-extrabold dark:text-white'>Express</li>
+            <li className='text-black py1 font-extrabold  dark:text-white'>Mongodb</li>
+            <li className='text-black py1 font-extrabold dark:text-white'>SQL</li>
+            <li className='text-black py1 font-extrabold dark:text-white'>C++</li>
+            </ul>
     </div>
    
     </div>

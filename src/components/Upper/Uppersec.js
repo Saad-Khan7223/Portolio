@@ -9,8 +9,8 @@ export default function Uppersec() {
   return (
     <div className='dark:bg-gray-900 text-white'>
     <div className='text-center p-10'>
-     <h2 className='text-4xl py-2 text-teal-600 font-medium'>Muhammad Saad Khan</h2>
-     <h3 className='text-2xl py-2'>MernStack Developer</h3> 
+     <h2 className='text-4xl py-2 text-slate-600 dark:text-teal-600 font-medium'>Muhammad Saad Khan</h2>
+     <h3 className='text-2xl py-2 text-slate-600 dark:text-teal-600'>MernStack Developer</h3> 
      <p className='text-md py-5 leading-8 text-gray-800 dark:text-white'>Electronic Engineer From SSUET MernStack Developer Freelancer providing services for programming. Join me down below and let's get cracking!
      </p>
      </div>
